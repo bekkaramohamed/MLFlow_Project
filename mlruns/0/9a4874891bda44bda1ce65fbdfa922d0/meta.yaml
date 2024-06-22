@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amine/Bureau/CDI/MLOps%20Project/test/mlruns/0/9a4874891bda44bda1ce65fbdfa922d0/artifacts
+end_time: 1719071032812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a4874891bda44bda1ce65fbdfa922d0
+run_name: learned-hen-167
+run_uuid: 9a4874891bda44bda1ce65fbdfa922d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719071030844
+status: 3
+tags: []
+user_id: amine

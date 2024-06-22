@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amine/Bureau/CDI/MLOps%20Project/test/mlruns/0/702f939a566644509b13a0c617921f3b/artifacts
+end_time: 1719071024464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 702f939a566644509b13a0c617921f3b
+run_name: casual-wasp-536
+run_uuid: 702f939a566644509b13a0c617921f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719071022922
+status: 4
+tags: []
+user_id: amine

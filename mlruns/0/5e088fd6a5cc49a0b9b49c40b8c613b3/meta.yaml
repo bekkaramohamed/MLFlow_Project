@@ -1,0 +1,15 @@
+artifact_uri: file:///home/amine/Bureau/CDI/MLOps%20Project/test/mlruns/0/5e088fd6a5cc49a0b9b49c40b8c613b3/artifacts
+end_time: 1719070114711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e088fd6a5cc49a0b9b49c40b8c613b3
+run_name: righteous-ram-54
+run_uuid: 5e088fd6a5cc49a0b9b49c40b8c613b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719070112546
+status: 3
+tags: []
+user_id: amine
